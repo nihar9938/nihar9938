@@ -9,3 +9,6 @@
 - 📫 How to reach me:LinkedIn -https://www.linkedin.com/in/nihar-mishra-420a5997/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am mad about exploring different things.
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=nihar9938&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
